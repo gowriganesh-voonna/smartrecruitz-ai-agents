@@ -13,6 +13,9 @@ venv/
 .vscode/
 .idea/
 
+# resume files
+uploads/
+
 # Testing
 .pytest_cache/
 .mypy_cache/
